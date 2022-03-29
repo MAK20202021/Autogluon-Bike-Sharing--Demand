@@ -1,6 +1,5 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### NAME HERE
-
+## Mehnaz Khan
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 At the beginning, I could not able to download the dataset from Kaggle through code, I needed to install Kaggle. Then it works.
@@ -31,14 +30,10 @@ If I get more time with this dataset, I will try with different hyperparameter t
 |hpo|0.69|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
-
-
-![model_train_score.png](model_train_score.png)
+![model_train_score.png](Images/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-
-
-![model_test_score.png](model_test_score.png)
+![model_test_score.png](Images/model_test_score.png)
 
 ## Summary
 This is a good project to get the idea how to utilize Autogluon library to predict the bike sharing demand and improve the model by hyper parameter tuning.
